@@ -14,5 +14,6 @@ public class Main {
         float boundary = 2 * (l * w);
         System.out.println("The area of the field: " + area + "m");
         System.out.println("The boundary of the field: " + boundary + "m");
+        scn.close();
     }
 }
